@@ -7,6 +7,6 @@ has_toc: false
 ---
 # Info
 cool stuff, you can head to 
-[index](/info/index.md) which has things in it :)))
+[index](info/index/) which has things in it :)))
 
-alternatively, you can also head to [here for main content](/info/main.md)
+alternatively, you can also head to [here for main content](info/index/)
