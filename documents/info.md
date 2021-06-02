@@ -7,6 +7,6 @@ has_toc: false
 ---
 # Info
 cool stuff, you can head to 
-[index](info/index/) which has things in it :)))
+[index](index/) which has things in it :)))
 
-alternatively, you can also head to [here for main content](info/roar/#ok-lets-try-this)
+alternatively, you can also head to [here for main content](roar/#ok-lets-try-this)
